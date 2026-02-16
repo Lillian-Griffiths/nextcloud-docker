@@ -27,3 +27,5 @@ The default admin credentials are admin and password. The credentials for the Da
 Click install
 
 Setup Complete!
+
+Warning: This is an insecure setup and only suitable for a lab environment. Beware that this setup is internet facing and not secured for actual use.
