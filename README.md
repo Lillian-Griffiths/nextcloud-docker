@@ -28,4 +28,4 @@ Click install
 
 Setup Complete!
 
-Warning: This is an insecure setup and only suitable for a lab environment. Beware that this setup is internet facing and not secured for actual use.
+Warning: This is an insecure setup and only suitable for a lab environment. Beware that this setup may be internet facing and not secured for actual use.
